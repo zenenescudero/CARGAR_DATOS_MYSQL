@@ -1,0 +1,31 @@
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.exe
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.pdb
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.xml
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar_Datos.Form1.resources
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar_Datos.Resources.resources
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.exe
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.xml
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.pdb
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.exe.config
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.exe.manifest
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.application
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.exe.manifest
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.application
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.exe.config
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.exe
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.xml
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.pdb
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.exe.manifest
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.application
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.exe
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.pdb
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Debug\Cargar Datos.xml
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar_Datos.Form1.resources
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar_Datos.Resources.resources
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.exe.manifest
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.application
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.vbprojResolveAssemblyReference.cache
+D:\Users\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Debug\Cargar Datos.vbproj.GenerateResource.Cache

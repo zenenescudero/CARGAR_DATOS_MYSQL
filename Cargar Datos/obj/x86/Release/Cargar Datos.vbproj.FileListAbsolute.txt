@@ -1,0 +1,19 @@
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\Cargar Datos.exe.config
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\Cargar Datos.exe.manifest
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\Cargar Datos.application
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\Cargar Datos.exe
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\Cargar Datos.pdb
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\Cargar Datos.xml
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\ClosedXML.dll
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\DocumentFormat.OpenXml.dll
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\bin\Release\MySql.Data.dll
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\ResolveAssemblyReference.cache
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\Cargar_Datos.Form1.resources
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\Cargar_Datos.Resources.resources
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\GenerateResource.read.1.tlog
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\GenerateResource.write.1.tlog
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\Cargar Datos.exe.manifest
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\Cargar Datos.application
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\Cargar Datos.exe
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\Cargar Datos.xml
+D:\usuarios\zcruz\Downloads\Cargar Datos\Cargar Datos\obj\x86\Release\Cargar Datos.pdb
